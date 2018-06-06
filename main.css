@@ -1,0 +1,36 @@
+body{
+margin: 0;
+color: #4a4a4a;
+display: flex;
+flex-direction: column;
+justify-content: center;
+font-family: "Rubik";
+}
+
+img {
+justify-content: center;
+  width: 155px;
+  padding: 10px;
+}
+
+ul {
+justify-content: center;
+list-style: none;
+padding-left: 0px;
+margin: 0;
+}
+
+.element {
+justify-content: center;
+display: inline;
+padding-bottom: 13px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.seccion {
+  display: flex;
+  flex-direction: column;
+background-color: #3CDBC0;
+color: #FFFFFF;
+align-items: center;
